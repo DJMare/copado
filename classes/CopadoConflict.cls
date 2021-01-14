@@ -2,7 +2,7 @@ public class CopadoConflict{
 
 public static Decimal countPlusOne(Decimal d){
 
-/** I am a NOT new comment **/
+/** I am a new comment **/
 
 for(Integer i = 0; i<10; i++){
 
